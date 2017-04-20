@@ -10,6 +10,11 @@
   "keywords": [
     "ngrok"
   ],
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/chosa91/ngrok-helper.git"
+  },
   "author": "Jozsef Csaszi <chosa91@gmail.com> (https://github.com/chosa91)",
   "license": "ISC",
   "dependencies": {
