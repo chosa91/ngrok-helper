@@ -1,6 +1,6 @@
 {
   "name": "ngrok-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get back the tunnel information under the targeted PORT, it could hard if we have multiple running ngrok instance.",
   "main": "index.js",
   "scripts": {
