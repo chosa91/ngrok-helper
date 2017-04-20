@@ -16,7 +16,7 @@ class NGrokURLFinder {
         this.emitter = new EventEmitter()
     }
 
-    findUrlForPortInRange (port = 0, startPort = 0, endPort = 0) {
+    findUrlForPortInRange (port = 0, startPort = 4040, endPort = 4050) {
         let range = _.range(startPort, endPort, 1)
 
         this.emitter.once('done', (data) => {
