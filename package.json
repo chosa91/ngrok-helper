@@ -16,7 +16,8 @@
     "url" : "https://github.com/chosa91/ngrok-helper.git"
   },
   "author": "Jozsef Csaszi <chosa91@gmail.com> (https://github.com/chosa91)",
-  "license": "ISC",
+  "email": "chosa91@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "http": "0.0.0",
     "lodash": "^4.17.4"
